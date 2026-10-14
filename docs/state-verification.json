@@ -1,0 +1,1001 @@
+{
+  "states": [
+    {
+      "state": "planner conflict",
+      "width": 360,
+      "overflow": 0,
+      "mobileBarVisible": true,
+      "mobileBarText": "2 subjects · Time clash€40 / weekView my plan ↑",
+      "clashes": 2
+    },
+    {
+      "state": "planner conflict",
+      "width": 390,
+      "overflow": 0,
+      "mobileBarVisible": true,
+      "mobileBarText": "2 subjects · Time clash€40 / weekView my plan ↑",
+      "clashes": 2
+    },
+    {
+      "state": "mobile view plan scroll",
+      "width": 390,
+      "pass": true
+    },
+    {
+      "state": "planner conflict",
+      "width": 834,
+      "overflow": 0,
+      "mobileBarVisible": false,
+      "mobileBarText": "2 subjects · Time clash€40 / weekView my plan ↑",
+      "clashes": 2
+    },
+    {
+      "state": "planner conflict",
+      "width": 1280,
+      "overflow": 0,
+      "mobileBarVisible": false,
+      "mobileBarText": "2 subjects · Time clash€40 / weekView my plan ↑",
+      "clashes": 2
+    },
+    {
+      "state": "planner conflict",
+      "width": 1440,
+      "overflow": 0,
+      "mobileBarVisible": false,
+      "mobileBarText": "2 subjects · Time clash€40 / weekView my plan ↑",
+      "clashes": 2
+    }
+  ],
+  "manualContrast": [
+    {
+      "state": "planner conflict",
+      "width": 360,
+      "pairs": [
+        {
+          "pair": "rgb(36, 30, 42) on 255,255,255",
+          "ratio": 16.23
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 247,244,237",
+          "ratio": 6.09
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 229,225,245",
+          "ratio": 5.23
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 229,225,245",
+          "ratio": 12.69
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 247,244,237",
+          "ratio": 14.77
+        },
+        {
+          "pair": "rgb(247, 244, 237) on 36,30,42",
+          "ratio": 14.77
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 255,255,255",
+          "ratio": 6.69
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 247,217,223",
+          "ratio": 12.32
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 247,217,223",
+          "ratio": 5.08
+        },
+        {
+          "pair": "rgb(255, 255, 255) on 185,31,57",
+          "ratio": 6.33
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 250,229,158",
+          "ratio": 5.34
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 250,229,158",
+          "ratio": 12.96
+        },
+        {
+          "pair": "rgb(148, 23, 45) on 250,229,158",
+          "ratio": 6.93
+        },
+        {
+          "pair": "rgb(116, 80, 11) on 250,229,158",
+          "ratio": 5.79
+        }
+      ],
+      "failures": []
+    },
+    {
+      "state": "planner conflict",
+      "width": 390,
+      "pairs": [
+        {
+          "pair": "rgb(36, 30, 42) on 255,255,255",
+          "ratio": 16.23
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 247,244,237",
+          "ratio": 6.09
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 229,225,245",
+          "ratio": 5.23
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 229,225,245",
+          "ratio": 12.69
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 247,244,237",
+          "ratio": 14.77
+        },
+        {
+          "pair": "rgb(247, 244, 237) on 36,30,42",
+          "ratio": 14.77
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 255,255,255",
+          "ratio": 6.69
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 247,217,223",
+          "ratio": 12.32
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 247,217,223",
+          "ratio": 5.08
+        },
+        {
+          "pair": "rgb(255, 255, 255) on 185,31,57",
+          "ratio": 6.33
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 250,229,158",
+          "ratio": 5.34
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 250,229,158",
+          "ratio": 12.96
+        },
+        {
+          "pair": "rgb(148, 23, 45) on 250,229,158",
+          "ratio": 6.93
+        },
+        {
+          "pair": "rgb(116, 80, 11) on 250,229,158",
+          "ratio": 5.79
+        }
+      ],
+      "failures": []
+    },
+    {
+      "state": "planner conflict",
+      "width": 834,
+      "pairs": [
+        {
+          "pair": "rgb(36, 30, 42) on 255,255,255",
+          "ratio": 16.23
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 247,244,237",
+          "ratio": 6.09
+        },
+        {
+          "pair": "rgb(255, 255, 255) on 185,31,57",
+          "ratio": 6.33
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 229,225,245",
+          "ratio": 5.23
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 229,225,245",
+          "ratio": 12.69
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 247,244,237",
+          "ratio": 14.77
+        },
+        {
+          "pair": "rgb(247, 244, 237) on 36,30,42",
+          "ratio": 14.77
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 255,255,255",
+          "ratio": 6.69
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 247,217,223",
+          "ratio": 12.32
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 247,217,223",
+          "ratio": 5.08
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 250,229,158",
+          "ratio": 5.34
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 250,229,158",
+          "ratio": 12.96
+        },
+        {
+          "pair": "rgb(148, 23, 45) on 250,229,158",
+          "ratio": 6.93
+        },
+        {
+          "pair": "rgb(116, 80, 11) on 250,229,158",
+          "ratio": 5.79
+        }
+      ],
+      "failures": []
+    },
+    {
+      "state": "planner conflict",
+      "width": 1280,
+      "pairs": [
+        {
+          "pair": "rgb(36, 30, 42) on 255,255,255",
+          "ratio": 16.23
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 247,244,237",
+          "ratio": 6.09
+        },
+        {
+          "pair": "rgb(255, 255, 255) on 185,31,57",
+          "ratio": 6.33
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 229,225,245",
+          "ratio": 5.23
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 229,225,245",
+          "ratio": 12.69
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 247,244,237",
+          "ratio": 14.77
+        },
+        {
+          "pair": "rgb(247, 244, 237) on 36,30,42",
+          "ratio": 14.77
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 255,255,255",
+          "ratio": 6.69
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 247,217,223",
+          "ratio": 12.32
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 247,217,223",
+          "ratio": 5.08
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 250,229,158",
+          "ratio": 5.34
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 250,229,158",
+          "ratio": 12.96
+        },
+        {
+          "pair": "rgb(148, 23, 45) on 250,229,158",
+          "ratio": 6.93
+        },
+        {
+          "pair": "rgb(116, 80, 11) on 250,229,158",
+          "ratio": 5.79
+        }
+      ],
+      "failures": []
+    },
+    {
+      "state": "planner conflict",
+      "width": 1440,
+      "pairs": [
+        {
+          "pair": "rgb(36, 30, 42) on 255,255,255",
+          "ratio": 16.23
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 247,244,237",
+          "ratio": 6.09
+        },
+        {
+          "pair": "rgb(255, 255, 255) on 185,31,57",
+          "ratio": 6.33
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 229,225,245",
+          "ratio": 5.23
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 229,225,245",
+          "ratio": 12.69
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 247,244,237",
+          "ratio": 14.77
+        },
+        {
+          "pair": "rgb(247, 244, 237) on 36,30,42",
+          "ratio": 14.77
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 255,255,255",
+          "ratio": 6.69
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 247,217,223",
+          "ratio": 12.32
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 247,217,223",
+          "ratio": 5.08
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 250,229,158",
+          "ratio": 5.34
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 250,229,158",
+          "ratio": 12.96
+        },
+        {
+          "pair": "rgb(148, 23, 45) on 250,229,158",
+          "ratio": 6.93
+        },
+        {
+          "pair": "rgb(116, 80, 11) on 250,229,158",
+          "ratio": 5.79
+        }
+      ],
+      "failures": []
+    },
+    {
+      "route": "/",
+      "pairs": [
+        {
+          "pair": "rgb(36, 30, 42) on 255,255,255",
+          "ratio": 16.23
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 247,244,237",
+          "ratio": 6.09
+        },
+        {
+          "pair": "rgb(255, 255, 255) on 185,31,57",
+          "ratio": 6.33
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 247,244,237",
+          "ratio": 14.77
+        },
+        {
+          "pair": "rgb(185, 31, 57) on 247,244,237",
+          "ratio": 5.76
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 200,186,243",
+          "ratio": 9.1
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 229,225,245",
+          "ratio": 12.69
+        },
+        {
+          "pair": "rgb(255, 255, 255) on 36,30,42",
+          "ratio": 16.23
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 246,207,82",
+          "ratio": 10.79
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 247,217,223",
+          "ratio": 12.32
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 255,255,255",
+          "ratio": 6.69
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 247,217,223",
+          "ratio": 5.08
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 229,225,245",
+          "ratio": 5.23
+        },
+        {
+          "pair": "rgb(247, 244, 237) on 36,30,42",
+          "ratio": 14.77
+        },
+        {
+          "pair": "rgb(246, 207, 82) on 36,30,42",
+          "ratio": 10.79
+        },
+        {
+          "pair": "rgb(236, 229, 240) on 36,30,42",
+          "ratio": 13.16
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 230,240,219",
+          "ratio": 13.79
+        }
+      ],
+      "failures": []
+    },
+    {
+      "route": "/about-us/",
+      "pairs": [
+        {
+          "pair": "rgb(36, 30, 42) on 255,255,255",
+          "ratio": 16.23
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 247,244,237",
+          "ratio": 6.09
+        },
+        {
+          "pair": "rgb(185, 31, 57) on 255,255,255",
+          "ratio": 6.33
+        },
+        {
+          "pair": "rgb(255, 255, 255) on 185,31,57",
+          "ratio": 6.33
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 247,217,223",
+          "ratio": 5.08
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 247,217,223",
+          "ratio": 12.32
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 247,244,237",
+          "ratio": 14.77
+        },
+        {
+          "pair": "rgb(185, 31, 57) on 247,217,223",
+          "ratio": 4.81
+        }
+      ],
+      "failures": []
+    },
+    {
+      "route": "/leaving-cert-grinds/",
+      "pairs": [
+        {
+          "pair": "rgb(36, 30, 42) on 255,255,255",
+          "ratio": 16.23
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 247,244,237",
+          "ratio": 6.09
+        },
+        {
+          "pair": "rgb(185, 31, 57) on 255,255,255",
+          "ratio": 6.33
+        },
+        {
+          "pair": "rgb(255, 255, 255) on 185,31,57",
+          "ratio": 6.33
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 229,225,245",
+          "ratio": 5.23
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 229,225,245",
+          "ratio": 12.69
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 247,244,237",
+          "ratio": 14.77
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 255,255,255",
+          "ratio": 6.69
+        },
+        {
+          "pair": "rgb(247, 244, 237) on 36,30,42",
+          "ratio": 14.77
+        },
+        {
+          "pair": "rgb(185, 31, 57) on 247,244,237",
+          "ratio": 5.76
+        }
+      ],
+      "failures": []
+    },
+    {
+      "route": "/junior-cert-grinds/",
+      "pairs": [
+        {
+          "pair": "rgb(36, 30, 42) on 255,255,255",
+          "ratio": 16.23
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 247,244,237",
+          "ratio": 6.09
+        },
+        {
+          "pair": "rgb(185, 31, 57) on 255,255,255",
+          "ratio": 6.33
+        },
+        {
+          "pair": "rgb(255, 255, 255) on 185,31,57",
+          "ratio": 6.33
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 229,225,245",
+          "ratio": 5.23
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 229,225,245",
+          "ratio": 12.69
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 247,244,237",
+          "ratio": 14.77
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 255,255,255",
+          "ratio": 6.69
+        },
+        {
+          "pair": "rgb(247, 244, 237) on 36,30,42",
+          "ratio": 14.77
+        },
+        {
+          "pair": "rgb(185, 31, 57) on 247,244,237",
+          "ratio": 5.76
+        }
+      ],
+      "failures": []
+    },
+    {
+      "route": "/oral-preparation/",
+      "pairs": [
+        {
+          "pair": "rgb(36, 30, 42) on 255,255,255",
+          "ratio": 16.23
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 247,244,237",
+          "ratio": 6.09
+        },
+        {
+          "pair": "rgb(255, 255, 255) on 185,31,57",
+          "ratio": 6.33
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 229,225,245",
+          "ratio": 5.23
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 229,225,245",
+          "ratio": 12.69
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 247,244,237",
+          "ratio": 14.77
+        },
+        {
+          "pair": "rgb(116, 80, 11) on 250,229,158",
+          "ratio": 5.79
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 255,255,255",
+          "ratio": 6.69
+        }
+      ],
+      "failures": []
+    },
+    {
+      "route": "/easter-revision-leaving-junior-cert/",
+      "pairs": [
+        {
+          "pair": "rgb(36, 30, 42) on 255,255,255",
+          "ratio": 16.23
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 247,244,237",
+          "ratio": 6.09
+        },
+        {
+          "pair": "rgb(255, 255, 255) on 185,31,57",
+          "ratio": 6.33
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 229,225,245",
+          "ratio": 5.23
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 229,225,245",
+          "ratio": 12.69
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 247,217,223",
+          "ratio": 12.32
+        },
+        {
+          "pair": "rgb(185, 31, 57) on 247,217,223",
+          "ratio": 4.81
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 247,244,237",
+          "ratio": 14.77
+        },
+        {
+          "pair": "rgb(247, 244, 237) on 36,30,42",
+          "ratio": 14.77
+        }
+      ],
+      "failures": []
+    },
+    {
+      "route": "/fees/",
+      "pairs": [
+        {
+          "pair": "rgb(36, 30, 42) on 255,255,255",
+          "ratio": 16.23
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 247,244,237",
+          "ratio": 6.09
+        },
+        {
+          "pair": "rgb(185, 31, 57) on 255,255,255",
+          "ratio": 6.33
+        },
+        {
+          "pair": "rgb(255, 255, 255) on 185,31,57",
+          "ratio": 6.33
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 247,217,223",
+          "ratio": 5.08
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 247,217,223",
+          "ratio": 12.32
+        },
+        {
+          "pair": "rgb(185, 31, 57) on 247,217,223",
+          "ratio": 4.81
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 255,255,255",
+          "ratio": 6.69
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 229,225,245",
+          "ratio": 12.69
+        },
+        {
+          "pair": "rgb(185, 31, 57) on 229,225,245",
+          "ratio": 4.95
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 247,244,237",
+          "ratio": 14.77
+        },
+        {
+          "pair": "rgb(247, 244, 237) on 36,30,42",
+          "ratio": 14.77
+        }
+      ],
+      "failures": []
+    },
+    {
+      "route": "/location/",
+      "pairs": [
+        {
+          "pair": "rgb(36, 30, 42) on 255,255,255",
+          "ratio": 16.23
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 247,244,237",
+          "ratio": 6.09
+        },
+        {
+          "pair": "rgb(255, 255, 255) on 185,31,57",
+          "ratio": 6.33
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 247,217,223",
+          "ratio": 5.08
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 247,217,223",
+          "ratio": 12.32
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 247,244,237",
+          "ratio": 14.77
+        }
+      ],
+      "failures": []
+    },
+    {
+      "route": "/contact-us/",
+      "pairs": [
+        {
+          "pair": "rgb(36, 30, 42) on 255,255,255",
+          "ratio": 16.23
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 247,244,237",
+          "ratio": 6.09
+        },
+        {
+          "pair": "rgb(255, 255, 255) on 185,31,57",
+          "ratio": 6.33
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 229,225,245",
+          "ratio": 5.23
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 229,225,245",
+          "ratio": 12.69
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 247,244,237",
+          "ratio": 14.77
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 255,255,255",
+          "ratio": 6.69
+        }
+      ],
+      "failures": []
+    },
+    {
+      "route": "/privacy-statement/",
+      "pairs": [
+        {
+          "pair": "rgb(36, 30, 42) on 255,255,255",
+          "ratio": 16.23
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 247,244,237",
+          "ratio": 6.09
+        },
+        {
+          "pair": "rgb(255, 255, 255) on 185,31,57",
+          "ratio": 6.33
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 229,225,245",
+          "ratio": 5.23
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 229,225,245",
+          "ratio": 12.69
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 247,244,237",
+          "ratio": 14.77
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 247,217,223",
+          "ratio": 12.32
+        },
+        {
+          "pair": "rgb(185, 31, 57) on 247,217,223",
+          "ratio": 4.81
+        }
+      ],
+      "failures": []
+    },
+    {
+      "route": "/preview-notes/",
+      "pairs": [
+        {
+          "pair": "rgb(36, 30, 42) on 255,255,255",
+          "ratio": 16.23
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 247,244,237",
+          "ratio": 6.09
+        },
+        {
+          "pair": "rgb(255, 255, 255) on 185,31,57",
+          "ratio": 6.33
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 229,225,245",
+          "ratio": 5.23
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 229,225,245",
+          "ratio": 12.69
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 247,244,237",
+          "ratio": 14.77
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 247,217,223",
+          "ratio": 12.32
+        },
+        {
+          "pair": "rgb(185, 31, 57) on 247,217,223",
+          "ratio": 4.81
+        }
+      ],
+      "failures": []
+    },
+    {
+      "route": "/timetable/",
+      "pairs": [
+        {
+          "pair": "rgb(36, 30, 42) on 255,255,255",
+          "ratio": 16.23
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 247,244,237",
+          "ratio": 6.09
+        },
+        {
+          "pair": "rgb(255, 255, 255) on 185,31,57",
+          "ratio": 6.33
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 229,225,245",
+          "ratio": 5.23
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 229,225,245",
+          "ratio": 12.69
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 247,244,237",
+          "ratio": 14.77
+        },
+        {
+          "pair": "rgb(247, 244, 237) on 36,30,42",
+          "ratio": 14.77
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 255,255,255",
+          "ratio": 6.69
+        }
+      ],
+      "failures": []
+    },
+    {
+      "route": "/404/",
+      "pairs": [
+        {
+          "pair": "rgb(36, 30, 42) on 255,255,255",
+          "ratio": 16.23
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 247,244,237",
+          "ratio": 6.09
+        },
+        {
+          "pair": "rgb(255, 255, 255) on 185,31,57",
+          "ratio": 6.33
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 229,225,245",
+          "ratio": 5.23
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 229,225,245",
+          "ratio": 12.69
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 247,244,237",
+          "ratio": 14.77
+        }
+      ],
+      "failures": []
+    },
+    {
+      "route": "/404.html",
+      "pairs": [
+        {
+          "pair": "rgb(36, 30, 42) on 255,255,255",
+          "ratio": 16.23
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 247,244,237",
+          "ratio": 6.09
+        },
+        {
+          "pair": "rgb(255, 255, 255) on 185,31,57",
+          "ratio": 6.33
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 229,225,245",
+          "ratio": 5.23
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 229,225,245",
+          "ratio": 12.69
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 247,244,237",
+          "ratio": 14.77
+        }
+      ],
+      "failures": []
+    },
+    {
+      "state": "draft visible",
+      "pairs": [
+        {
+          "pair": "rgb(36, 30, 42) on 255,255,255",
+          "ratio": 16.23
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 247,244,237",
+          "ratio": 6.09
+        },
+        {
+          "pair": "rgb(255, 255, 255) on 185,31,57",
+          "ratio": 6.33
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 229,225,245",
+          "ratio": 5.23
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 229,225,245",
+          "ratio": 12.69
+        },
+        {
+          "pair": "rgb(36, 30, 42) on 247,244,237",
+          "ratio": 14.77
+        },
+        {
+          "pair": "rgb(97, 89, 105) on 255,255,255",
+          "ratio": 6.69
+        },
+        {
+          "pair": "rgb(255, 255, 255) on 148,23,45",
+          "ratio": 8.68
+        }
+      ],
+      "failures": []
+    }
+  ],
+  "errors": [],
+  "motionFallback": [
+    {
+      "route": "/",
+      "h1": 1,
+      "phone": true,
+      "hiddenReveals": 0
+    },
+    {
+      "route": "/timetable/",
+      "h1": 1,
+      "phone": true,
+      "hiddenReveals": 0
+    },
+    {
+      "route": "/contact-us/",
+      "h1": 1,
+      "phone": true,
+      "hiddenReveals": 0
+    }
+  ]
+}

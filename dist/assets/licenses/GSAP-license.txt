@@ -1,0 +1,5 @@
+GSAP 3.13.0 and ScrollTrigger 3.13.0
+Copyright 2008–2025 GreenSock.
+Standard license: https://gsap.com/standard-license/
+Source: https://www.npmjs.com/package/gsap/v/3.13.0
+The distributed source files retain their original license headers.

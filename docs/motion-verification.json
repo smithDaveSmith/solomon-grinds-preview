@@ -1,0 +1,135 @@
+{
+  "entrance": {
+    "start": {
+      "gsap": "3.13.0",
+      "card": "matrix(0.851631, -0.119689, 0.119689, 0.851631, 0, 55)",
+      "heading": "0.1618"
+    },
+    "end": {
+      "card": "matrix(1, 0, 0, 1, 0, 0)",
+      "heading": "1",
+      "overflow": 0
+    }
+  },
+  "exampleSwitch": {
+    "subjects": [
+      "Science",
+      "Maths",
+      "History"
+    ],
+    "pass": true
+  },
+  "signatureFrames": [
+    {
+      "progress": 0.02,
+      "card": "matrix(0.86077, 0.182962, -0.182962, 0.86077, 120, 95)",
+      "opacity": "1",
+      "activeSteps": 1,
+      "spacers": 1
+    },
+    {
+      "progress": 0.5,
+      "card": "matrix(0.86077, 0.182962, -0.182962, 0.86077, 120, 95)",
+      "opacity": "1",
+      "activeSteps": 2,
+      "spacers": 1
+    },
+    {
+      "progress": 0.98,
+      "card": "matrix(1, 0, 0, 1, 0, 0)",
+      "opacity": "1",
+      "activeSteps": 3,
+      "spacers": 1
+    }
+  ],
+  "breakpoints": [
+    {
+      "width": 1440,
+      "triggers": 5,
+      "uniqueTriggers": 5,
+      "pins": 1,
+      "spacers": 1,
+      "overflow": 0,
+      "pass": true
+    },
+    {
+      "width": 834,
+      "triggers": 3,
+      "uniqueTriggers": 3,
+      "pins": 0,
+      "spacers": 0,
+      "overflow": 0,
+      "pass": true
+    },
+    {
+      "width": 1280,
+      "triggers": 5,
+      "uniqueTriggers": 5,
+      "pins": 1,
+      "spacers": 1,
+      "overflow": 0,
+      "pass": true
+    },
+    {
+      "width": 390,
+      "triggers": 6,
+      "uniqueTriggers": 6,
+      "pins": 0,
+      "spacers": 0,
+      "overflow": 0,
+      "pass": true
+    },
+    {
+      "width": 1440,
+      "triggers": 5,
+      "uniqueTriggers": 5,
+      "pins": 1,
+      "spacers": 1,
+      "overflow": 0,
+      "pass": true
+    },
+    {
+      "width": 960,
+      "triggers": 4,
+      "uniqueTriggers": 4,
+      "pins": 0,
+      "spacers": 0,
+      "overflow": 0,
+      "pass": true
+    },
+    {
+      "width": 961,
+      "triggers": 5,
+      "uniqueTriggers": 5,
+      "pins": 1,
+      "spacers": 1,
+      "overflow": 0,
+      "pass": true
+    },
+    {
+      "width": 360,
+      "triggers": 6,
+      "uniqueTriggers": 6,
+      "pins": 0,
+      "spacers": 0,
+      "overflow": 0,
+      "pass": true
+    },
+    {
+      "width": 1440,
+      "triggers": 5,
+      "uniqueTriggers": 5,
+      "pins": 1,
+      "spacers": 1,
+      "overflow": 0,
+      "pass": true
+    }
+  ],
+  "reduced": {
+    "triggers": 0,
+    "spacers": 0,
+    "hidden": 0,
+    "domTweens": 0
+  },
+  "errors": []
+}

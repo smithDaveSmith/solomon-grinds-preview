@@ -1,0 +1,1428 @@
+{
+  "date": "2026-10-12T17:28:22.234Z",
+  "browser": "Chromium 153, local laboratory",
+  "widths": [
+    360,
+    390,
+    834,
+    1280,
+    1440
+  ],
+  "routes": [
+    "/",
+    "/about-us/",
+    "/leaving-cert-grinds/",
+    "/junior-cert-grinds/",
+    "/oral-preparation/",
+    "/easter-revision-leaving-junior-cert/",
+    "/fees/",
+    "/location/",
+    "/contact-us/",
+    "/privacy-statement/",
+    "/preview-notes/",
+    "/timetable/",
+    "/404/",
+    "/404.html"
+  ],
+  "views": [
+    {
+      "route": "/",
+      "width": 360,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/about-us/",
+      "width": 360,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/leaving-cert-grinds/",
+      "width": 360,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/junior-cert-grinds/",
+      "width": 360,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/oral-preparation/",
+      "width": 360,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/easter-revision-leaving-junior-cert/",
+      "width": 360,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/fees/",
+      "width": 360,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/location/",
+      "width": 360,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/contact-us/",
+      "width": 360,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/privacy-statement/",
+      "width": 360,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/preview-notes/",
+      "width": 360,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/timetable/",
+      "width": 360,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/404/",
+      "width": 360,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/404.html",
+      "width": 360,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/",
+      "width": 390,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/about-us/",
+      "width": 390,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/leaving-cert-grinds/",
+      "width": 390,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/junior-cert-grinds/",
+      "width": 390,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/oral-preparation/",
+      "width": 390,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/easter-revision-leaving-junior-cert/",
+      "width": 390,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/fees/",
+      "width": 390,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/location/",
+      "width": 390,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/contact-us/",
+      "width": 390,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/privacy-statement/",
+      "width": 390,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/preview-notes/",
+      "width": 390,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/timetable/",
+      "width": 390,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/404/",
+      "width": 390,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/404.html",
+      "width": 390,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/",
+      "width": 834,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/about-us/",
+      "width": 834,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/leaving-cert-grinds/",
+      "width": 834,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/junior-cert-grinds/",
+      "width": 834,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/oral-preparation/",
+      "width": 834,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/easter-revision-leaving-junior-cert/",
+      "width": 834,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/fees/",
+      "width": 834,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/location/",
+      "width": 834,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/contact-us/",
+      "width": 834,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/privacy-statement/",
+      "width": 834,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/preview-notes/",
+      "width": 834,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/timetable/",
+      "width": 834,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/404/",
+      "width": 834,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/404.html",
+      "width": 834,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/",
+      "width": 1280,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/about-us/",
+      "width": 1280,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/leaving-cert-grinds/",
+      "width": 1280,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/junior-cert-grinds/",
+      "width": 1280,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/oral-preparation/",
+      "width": 1280,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/easter-revision-leaving-junior-cert/",
+      "width": 1280,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/fees/",
+      "width": 1280,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/location/",
+      "width": 1280,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/contact-us/",
+      "width": 1280,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/privacy-statement/",
+      "width": 1280,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/preview-notes/",
+      "width": 1280,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/timetable/",
+      "width": 1280,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/404/",
+      "width": 1280,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/404.html",
+      "width": 1280,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/",
+      "width": 1440,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/about-us/",
+      "width": 1440,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/leaving-cert-grinds/",
+      "width": 1440,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/junior-cert-grinds/",
+      "width": 1440,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/oral-preparation/",
+      "width": 1440,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/easter-revision-leaving-junior-cert/",
+      "width": 1440,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/fees/",
+      "width": 1440,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/location/",
+      "width": 1440,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/contact-us/",
+      "width": 1440,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/privacy-statement/",
+      "width": 1440,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/preview-notes/",
+      "width": 1440,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/timetable/",
+      "width": 1440,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/404/",
+      "width": 1440,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    },
+    {
+      "route": "/404.html",
+      "width": 1440,
+      "overflow": 0,
+      "h1": 1,
+      "missingAlt": 0,
+      "unlabelled": 0,
+      "brokenImages": 0,
+      "hiddenContent": 0
+    }
+  ],
+  "errors": [],
+  "brokenLinks": [],
+  "reduced": [
+    {
+      "route": "/",
+      "hidden": 0,
+      "triggers": 0,
+      "domTweens": 0
+    },
+    {
+      "route": "/about-us/",
+      "hidden": 0,
+      "triggers": 0,
+      "domTweens": 0
+    },
+    {
+      "route": "/leaving-cert-grinds/",
+      "hidden": 0,
+      "triggers": 0,
+      "domTweens": 0
+    },
+    {
+      "route": "/junior-cert-grinds/",
+      "hidden": 0,
+      "triggers": 0,
+      "domTweens": 0
+    },
+    {
+      "route": "/oral-preparation/",
+      "hidden": 0,
+      "triggers": 0,
+      "domTweens": 0
+    },
+    {
+      "route": "/easter-revision-leaving-junior-cert/",
+      "hidden": 0,
+      "triggers": 0,
+      "domTweens": 0
+    },
+    {
+      "route": "/fees/",
+      "hidden": 0,
+      "triggers": 0,
+      "domTweens": 0
+    },
+    {
+      "route": "/location/",
+      "hidden": 0,
+      "triggers": 0,
+      "domTweens": 0
+    },
+    {
+      "route": "/contact-us/",
+      "hidden": 0,
+      "triggers": 0,
+      "domTweens": 0
+    },
+    {
+      "route": "/privacy-statement/",
+      "hidden": 0,
+      "triggers": 0,
+      "domTweens": 0
+    },
+    {
+      "route": "/preview-notes/",
+      "hidden": 0,
+      "triggers": 0,
+      "domTweens": 0
+    },
+    {
+      "route": "/timetable/",
+      "hidden": 0,
+      "triggers": 0,
+      "domTweens": 0
+    },
+    {
+      "route": "/404/",
+      "hidden": 0,
+      "triggers": 0,
+      "domTweens": 0
+    },
+    {
+      "route": "/404.html",
+      "hidden": 0,
+      "triggers": 0,
+      "domTweens": 0
+    }
+  ],
+  "noJS": [
+    {
+      "route": "/",
+      "h1": 1,
+      "phone": 1,
+      "content": 3206,
+      "overflow": 0
+    },
+    {
+      "route": "/about-us/",
+      "h1": 1,
+      "phone": 1,
+      "content": 1725,
+      "overflow": 0
+    },
+    {
+      "route": "/leaving-cert-grinds/",
+      "h1": 1,
+      "phone": 2,
+      "content": 2959,
+      "overflow": 0
+    },
+    {
+      "route": "/junior-cert-grinds/",
+      "h1": 1,
+      "phone": 2,
+      "content": 2452,
+      "overflow": 0
+    },
+    {
+      "route": "/oral-preparation/",
+      "h1": 1,
+      "phone": 1,
+      "content": 1040,
+      "overflow": 0
+    },
+    {
+      "route": "/easter-revision-leaving-junior-cert/",
+      "h1": 1,
+      "phone": 1,
+      "content": 1961,
+      "overflow": 0
+    },
+    {
+      "route": "/fees/",
+      "h1": 1,
+      "phone": 1,
+      "content": 1895,
+      "overflow": 0
+    },
+    {
+      "route": "/location/",
+      "h1": 1,
+      "phone": 1,
+      "content": 1223,
+      "overflow": 0
+    },
+    {
+      "route": "/contact-us/",
+      "h1": 1,
+      "phone": 3,
+      "content": 812,
+      "overflow": 0
+    },
+    {
+      "route": "/privacy-statement/",
+      "h1": 1,
+      "phone": 2,
+      "content": 2125,
+      "overflow": 0
+    },
+    {
+      "route": "/preview-notes/",
+      "h1": 1,
+      "phone": 1,
+      "content": 3091,
+      "overflow": 0
+    },
+    {
+      "route": "/timetable/",
+      "h1": 1,
+      "phone": 2,
+      "content": 2172,
+      "overflow": 0
+    },
+    {
+      "route": "/404/",
+      "h1": 1,
+      "phone": 1,
+      "content": 184,
+      "overflow": 0
+    },
+    {
+      "route": "/404.html",
+      "h1": 1,
+      "phone": 1,
+      "content": 184,
+      "overflow": 0
+    }
+  ],
+  "keyboard": [
+    {
+      "route": "/",
+      "width": 360,
+      "expected": 38,
+      "reached": 38,
+      "invisible": []
+    },
+    {
+      "route": "/about-us/",
+      "width": 360,
+      "expected": 29,
+      "reached": 29,
+      "invisible": []
+    },
+    {
+      "route": "/leaving-cert-grinds/",
+      "width": 360,
+      "expected": 55,
+      "reached": 55,
+      "invisible": []
+    },
+    {
+      "route": "/junior-cert-grinds/",
+      "width": 360,
+      "expected": 43,
+      "reached": 43,
+      "invisible": []
+    },
+    {
+      "route": "/oral-preparation/",
+      "width": 360,
+      "expected": 30,
+      "reached": 30,
+      "invisible": []
+    },
+    {
+      "route": "/easter-revision-leaving-junior-cert/",
+      "width": 360,
+      "expected": 31,
+      "reached": 31,
+      "invisible": []
+    },
+    {
+      "route": "/fees/",
+      "width": 360,
+      "expected": 35,
+      "reached": 35,
+      "invisible": []
+    },
+    {
+      "route": "/location/",
+      "width": 360,
+      "expected": 31,
+      "reached": 31,
+      "invisible": []
+    },
+    {
+      "route": "/contact-us/",
+      "width": 360,
+      "expected": 36,
+      "reached": 36,
+      "invisible": []
+    },
+    {
+      "route": "/privacy-statement/",
+      "width": 360,
+      "expected": 32,
+      "reached": 32,
+      "invisible": []
+    },
+    {
+      "route": "/preview-notes/",
+      "width": 360,
+      "expected": 43,
+      "reached": 43,
+      "invisible": []
+    },
+    {
+      "route": "/timetable/",
+      "width": 360,
+      "expected": 56,
+      "reached": 56,
+      "invisible": []
+    },
+    {
+      "route": "/404/",
+      "width": 360,
+      "expected": 28,
+      "reached": 28,
+      "invisible": []
+    },
+    {
+      "route": "/404.html",
+      "width": 360,
+      "expected": 28,
+      "reached": 28,
+      "invisible": []
+    },
+    {
+      "route": "/",
+      "width": 1440,
+      "expected": 37,
+      "reached": 37,
+      "invisible": []
+    },
+    {
+      "route": "/about-us/",
+      "width": 1440,
+      "expected": 28,
+      "reached": 28,
+      "invisible": []
+    },
+    {
+      "route": "/leaving-cert-grinds/",
+      "width": 1440,
+      "expected": 54,
+      "reached": 54,
+      "invisible": []
+    },
+    {
+      "route": "/junior-cert-grinds/",
+      "width": 1440,
+      "expected": 42,
+      "reached": 42,
+      "invisible": []
+    },
+    {
+      "route": "/oral-preparation/",
+      "width": 1440,
+      "expected": 29,
+      "reached": 29,
+      "invisible": []
+    },
+    {
+      "route": "/easter-revision-leaving-junior-cert/",
+      "width": 1440,
+      "expected": 30,
+      "reached": 30,
+      "invisible": []
+    },
+    {
+      "route": "/fees/",
+      "width": 1440,
+      "expected": 34,
+      "reached": 34,
+      "invisible": []
+    },
+    {
+      "route": "/location/",
+      "width": 1440,
+      "expected": 30,
+      "reached": 30,
+      "invisible": []
+    },
+    {
+      "route": "/contact-us/",
+      "width": 1440,
+      "expected": 35,
+      "reached": 35,
+      "invisible": []
+    },
+    {
+      "route": "/privacy-statement/",
+      "width": 1440,
+      "expected": 31,
+      "reached": 31,
+      "invisible": []
+    },
+    {
+      "route": "/preview-notes/",
+      "width": 1440,
+      "expected": 42,
+      "reached": 42,
+      "invisible": []
+    },
+    {
+      "route": "/timetable/",
+      "width": 1440,
+      "expected": 55,
+      "reached": 55,
+      "invisible": []
+    },
+    {
+      "route": "/404/",
+      "width": 1440,
+      "expected": 27,
+      "reached": 27,
+      "invisible": []
+    },
+    {
+      "route": "/404.html",
+      "width": 1440,
+      "expected": 27,
+      "reached": 27,
+      "invisible": []
+    }
+  ],
+  "interactions": [
+    {
+      "label": "Three distinct subjects cost \u20ac55",
+      "pass": true
+    },
+    {
+      "label": "Compatible three-class plan can be enquired about",
+      "pass": true
+    },
+    {
+      "label": "Planner carries chosen sessions into enquiry",
+      "pass": true
+    },
+    {
+      "label": "Enquiry prefill contains chosen subjects",
+      "pass": true
+    },
+    {
+      "label": "Invalid form never prepares a draft",
+      "pass": true
+    },
+    {
+      "label": "Valid form prepares a local draft",
+      "pass": true
+    },
+    {
+      "label": "Draft includes selected class times",
+      "pass": true
+    },
+    {
+      "label": "Draft uses published email without submission",
+      "pass": true
+    },
+    {
+      "label": "Maths and Biology at Saturday 12:00 are detected as a clash",
+      "pass": true
+    },
+    {
+      "label": "Both conflicting sessions are identified",
+      "pass": true
+    },
+    {
+      "label": "Removing overlap clears the conflict",
+      "pass": true
+    },
+    {
+      "label": "Switching exam cycles clears the plan",
+      "pass": true
+    },
+    {
+      "label": "Choosing another Maths time replaces the previous Maths class",
+      "pass": true
+    },
+    {
+      "label": "Listed subject without a time offers a contact path",
+      "pass": true
+    }
+  ],
+  "resize": [
+    {
+      "width": 1280,
+      "triggers": 7,
+      "uniqueTriggers": 7,
+      "spacers": 1,
+      "pins": 1,
+      "ids": [
+        "section",
+        "section",
+        "section",
+        "section",
+        "section",
+        "section",
+        "solomon-week"
+      ]
+    },
+    {
+      "width": 360,
+      "triggers": 7,
+      "uniqueTriggers": 7,
+      "spacers": 0,
+      "pins": 0,
+      "ids": [
+        "section",
+        "section",
+        "section",
+        "section",
+        "section",
+        "section",
+        "section"
+      ]
+    },
+    {
+      "width": 1280,
+      "triggers": 7,
+      "uniqueTriggers": 7,
+      "spacers": 1,
+      "pins": 1,
+      "ids": [
+        "section",
+        "section",
+        "section",
+        "section",
+        "section",
+        "section",
+        "solomon-week"
+      ]
+    },
+    {
+      "width": 360,
+      "triggers": 7,
+      "uniqueTriggers": 7,
+      "spacers": 0,
+      "pins": 0,
+      "ids": [
+        "section",
+        "section",
+        "section",
+        "section",
+        "section",
+        "section",
+        "section"
+      ]
+    },
+    {
+      "width": 1280,
+      "triggers": 7,
+      "uniqueTriggers": 7,
+      "spacers": 1,
+      "pins": 1,
+      "ids": [
+        "section",
+        "section",
+        "section",
+        "section",
+        "section",
+        "section",
+        "solomon-week"
+      ]
+    }
+  ],
+  "contrast": [
+    {
+      "route": "/",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 29
+        }
+      ],
+      "retested_after_fix": true
+    },
+    {
+      "route": "/about-us/",
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/leaving-cert-grinds/",
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/junior-cert-grinds/",
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/oral-preparation/",
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/easter-revision-leaving-junior-cert/",
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/fees/",
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/location/",
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/contact-us/",
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "route": "/privacy-statement/",
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/preview-notes/",
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/timetable/",
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/404/",
+      "violations": [],
+      "incomplete": []
+    },
+    {
+      "route": "/404.html",
+      "violations": [],
+      "incomplete": []
+    }
+  ],
+  "focused_home_retest": {
+    "views": [
+      {
+        "width": 360,
+        "overflow": 0,
+        "violations": [],
+        "incomplete": [
+          {
+            "id": "color-contrast",
+            "count": 21
+          }
+        ]
+      },
+      {
+        "width": 390,
+        "overflow": 0,
+        "violations": [],
+        "incomplete": [
+          {
+            "id": "color-contrast",
+            "count": 21
+          }
+        ]
+      },
+      {
+        "width": 834,
+        "overflow": 0,
+        "violations": [],
+        "incomplete": [
+          {
+            "id": "color-contrast",
+            "count": 21
+          }
+        ]
+      },
+      {
+        "width": 1280,
+        "overflow": 0,
+        "violations": [],
+        "incomplete": [
+          {
+            "id": "color-contrast",
+            "count": 29
+          }
+        ]
+      },
+      {
+        "width": 1440,
+        "overflow": 0,
+        "violations": [],
+        "incomplete": [
+          {
+            "id": "color-contrast",
+            "count": 29
+          }
+        ]
+      }
+    ],
+    "phaseContrast": [
+      {
+        "at": 0.02,
+        "violations": [],
+        "cardOpacity": [
+          "1",
+          "1",
+          "1"
+        ]
+      },
+      {
+        "at": 0.5,
+        "violations": [],
+        "cardOpacity": [
+          "1",
+          "1",
+          "1"
+        ]
+      },
+      {
+        "at": 0.98,
+        "violations": [],
+        "cardOpacity": [
+          "1",
+          "1",
+          "1"
+        ]
+      }
+    ],
+    "errors": []
+  },
+  "contrast_fix": "Removed opacity staging from pinned cards and total; text stays opaque at all scroll positions."
+}

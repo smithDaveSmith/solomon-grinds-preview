@@ -1,0 +1,89 @@
+{
+  "views": [
+    {
+      "width": 360,
+      "overflow": 0,
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "overflow": 0,
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "width": 834,
+      "overflow": 0,
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 21
+        }
+      ]
+    },
+    {
+      "width": 1280,
+      "overflow": 0,
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 29
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "overflow": 0,
+      "violations": [],
+      "incomplete": [
+        {
+          "id": "color-contrast",
+          "count": 29
+        }
+      ]
+    }
+  ],
+  "phaseContrast": [
+    {
+      "at": 0.02,
+      "violations": [],
+      "cardOpacity": [
+        "1",
+        "1",
+        "1"
+      ]
+    },
+    {
+      "at": 0.5,
+      "violations": [],
+      "cardOpacity": [
+        "1",
+        "1",
+        "1"
+      ]
+    },
+    {
+      "at": 0.98,
+      "violations": [],
+      "cardOpacity": [
+        "1",
+        "1",
+        "1"
+      ]
+    }
+  ],
+  "errors": []
+}

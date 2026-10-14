@@ -1,0 +1,402 @@
+[
+  {
+    "id": "lc-01",
+    "cycle": "lc",
+    "day": "Wednesday",
+    "start": "17:30",
+    "end": "18:30",
+    "subject": "Maths",
+    "level": "Higher",
+    "detail": "5th Year"
+  },
+  {
+    "id": "lc-02",
+    "cycle": "lc",
+    "day": "Wednesday",
+    "start": "17:30",
+    "end": "18:30",
+    "subject": "Spanish",
+    "level": "Higher",
+    "detail": "Oral"
+  },
+  {
+    "id": "lc-03",
+    "cycle": "lc",
+    "day": "Wednesday",
+    "start": "17:30",
+    "end": "18:30",
+    "subject": "French",
+    "level": "Higher",
+    "detail": "Oral"
+  },
+  {
+    "id": "lc-04",
+    "cycle": "lc",
+    "day": "Wednesday",
+    "start": "17:30",
+    "end": "18:30",
+    "subject": "Computer Science",
+    "level": "Higher",
+    "detail": ""
+  },
+  {
+    "id": "lc-05",
+    "cycle": "lc",
+    "day": "Wednesday",
+    "start": "18:45",
+    "end": "19:45",
+    "subject": "Spanish",
+    "level": "Higher",
+    "detail": "Written"
+  },
+  {
+    "id": "lc-06",
+    "cycle": "lc",
+    "day": "Wednesday",
+    "start": "18:45",
+    "end": "19:45",
+    "subject": "German",
+    "level": "Higher",
+    "detail": ""
+  },
+  {
+    "id": "lc-07",
+    "cycle": "lc",
+    "day": "Wednesday",
+    "start": "18:45",
+    "end": "19:45",
+    "subject": "Politics & Society",
+    "level": "Higher",
+    "detail": ""
+  },
+  {
+    "id": "lc-08",
+    "cycle": "lc",
+    "day": "Wednesday",
+    "start": "18:45",
+    "end": "19:45",
+    "subject": "French",
+    "level": "Higher",
+    "detail": "Grammar"
+  },
+  {
+    "id": "lc-09",
+    "cycle": "lc",
+    "day": "Wednesday",
+    "start": "18:45",
+    "end": "19:45",
+    "subject": "Geography",
+    "level": "Higher",
+    "detail": ""
+  },
+  {
+    "id": "lc-10",
+    "cycle": "lc",
+    "day": "Wednesday",
+    "start": "20:00",
+    "end": "21:00",
+    "subject": "English",
+    "level": "Higher",
+    "detail": ""
+  },
+  {
+    "id": "lc-11",
+    "cycle": "lc",
+    "day": "Wednesday",
+    "start": "20:00",
+    "end": "21:00",
+    "subject": "Physics",
+    "level": "Higher",
+    "detail": ""
+  },
+  {
+    "id": "lc-12",
+    "cycle": "lc",
+    "day": "Wednesday",
+    "start": "20:00",
+    "end": "21:00",
+    "subject": "Maths",
+    "level": "Ordinary",
+    "detail": ""
+  },
+  {
+    "id": "lc-13",
+    "cycle": "lc",
+    "day": "Saturday",
+    "start": "09:30",
+    "end": "10:30",
+    "subject": "Chemistry",
+    "level": "Higher",
+    "detail": ""
+  },
+  {
+    "id": "lc-14",
+    "cycle": "lc",
+    "day": "Saturday",
+    "start": "09:30",
+    "end": "10:30",
+    "subject": "Romanian",
+    "level": "Higher",
+    "detail": ""
+  },
+  {
+    "id": "lc-15",
+    "cycle": "lc",
+    "day": "Saturday",
+    "start": "09:30",
+    "end": "10:30",
+    "subject": "Accounting",
+    "level": "Higher",
+    "detail": ""
+  },
+  {
+    "id": "lc-16",
+    "cycle": "lc",
+    "day": "Saturday",
+    "start": "10:45",
+    "end": "11:45",
+    "subject": "Business",
+    "level": "Higher",
+    "detail": ""
+  },
+  {
+    "id": "lc-17",
+    "cycle": "lc",
+    "day": "Saturday",
+    "start": "10:45",
+    "end": "11:45",
+    "subject": "Irish",
+    "level": "Higher",
+    "detail": ""
+  },
+  {
+    "id": "lc-18",
+    "cycle": "lc",
+    "day": "Saturday",
+    "start": "12:00",
+    "end": "13:00",
+    "subject": "Maths",
+    "level": "Higher",
+    "detail": ""
+  },
+  {
+    "id": "lc-19",
+    "cycle": "lc",
+    "day": "Saturday",
+    "start": "12:00",
+    "end": "13:00",
+    "subject": "Biology",
+    "level": "Higher",
+    "detail": ""
+  },
+  {
+    "id": "lc-20",
+    "cycle": "lc",
+    "day": "Saturday",
+    "start": "12:00",
+    "end": "13:00",
+    "subject": "Irish",
+    "level": "Ordinary",
+    "detail": ""
+  },
+  {
+    "id": "lc-21",
+    "cycle": "lc",
+    "day": "Saturday",
+    "start": "13:15",
+    "end": "14:15",
+    "subject": "Maths",
+    "level": "Ordinary",
+    "detail": ""
+  },
+  {
+    "id": "lc-22",
+    "cycle": "lc",
+    "day": "Saturday",
+    "start": "13:15",
+    "end": "14:15",
+    "subject": "Russian",
+    "level": "Higher",
+    "detail": ""
+  },
+  {
+    "id": "lc-23",
+    "cycle": "lc",
+    "day": "Saturday",
+    "start": "13:15",
+    "end": "14:15",
+    "subject": "Economics",
+    "level": "Higher",
+    "detail": ""
+  },
+  {
+    "id": "jc-24",
+    "cycle": "jc",
+    "day": "Wednesday",
+    "start": "17:30",
+    "end": "18:30",
+    "subject": "Science",
+    "level": "Common",
+    "detail": ""
+  },
+  {
+    "id": "jc-25",
+    "cycle": "jc",
+    "day": "Wednesday",
+    "start": "17:30",
+    "end": "18:30",
+    "subject": "English",
+    "level": "Higher",
+    "detail": ""
+  },
+  {
+    "id": "jc-26",
+    "cycle": "jc",
+    "day": "Wednesday",
+    "start": "18:45",
+    "end": "19:45",
+    "subject": "Maths",
+    "level": "Higher",
+    "detail": ""
+  },
+  {
+    "id": "jc-27",
+    "cycle": "jc",
+    "day": "Wednesday",
+    "start": "20:00",
+    "end": "21:00",
+    "subject": "Geography",
+    "level": "Common",
+    "detail": ""
+  },
+  {
+    "id": "jc-28",
+    "cycle": "jc",
+    "day": "Wednesday",
+    "start": "20:00",
+    "end": "21:00",
+    "subject": "French",
+    "level": "Common",
+    "detail": ""
+  },
+  {
+    "id": "jc-29",
+    "cycle": "jc",
+    "day": "Saturday",
+    "start": "09:30",
+    "end": "10:30",
+    "subject": "Maths",
+    "level": "Higher",
+    "detail": ""
+  },
+  {
+    "id": "jc-30",
+    "cycle": "jc",
+    "day": "Saturday",
+    "start": "09:30",
+    "end": "10:30",
+    "subject": "Irish",
+    "level": "Higher",
+    "detail": ""
+  },
+  {
+    "id": "jc-31",
+    "cycle": "jc",
+    "day": "Saturday",
+    "start": "09:30",
+    "end": "10:30",
+    "subject": "Spanish",
+    "level": "Common",
+    "detail": ""
+  },
+  {
+    "id": "jc-32",
+    "cycle": "jc",
+    "day": "Saturday",
+    "start": "10:45",
+    "end": "11:45",
+    "subject": "Maths",
+    "level": "Higher",
+    "detail": ""
+  },
+  {
+    "id": "jc-33",
+    "cycle": "jc",
+    "day": "Saturday",
+    "start": "10:45",
+    "end": "11:45",
+    "subject": "Science",
+    "level": "Common",
+    "detail": ""
+  },
+  {
+    "id": "jc-34",
+    "cycle": "jc",
+    "day": "Saturday",
+    "start": "10:45",
+    "end": "11:45",
+    "subject": "Maths",
+    "level": "Higher",
+    "detail": "2nd Year"
+  },
+  {
+    "id": "jc-35",
+    "cycle": "jc",
+    "day": "Saturday",
+    "start": "10:45",
+    "end": "11:45",
+    "subject": "Maths",
+    "level": "Ordinary",
+    "detail": ""
+  },
+  {
+    "id": "jc-36",
+    "cycle": "jc",
+    "day": "Saturday",
+    "start": "12:00",
+    "end": "13:00",
+    "subject": "Business Studies",
+    "level": "Common",
+    "detail": ""
+  },
+  {
+    "id": "jc-37",
+    "cycle": "jc",
+    "day": "Saturday",
+    "start": "12:00",
+    "end": "13:00",
+    "subject": "Irish",
+    "level": "Ordinary",
+    "detail": ""
+  },
+  {
+    "id": "jc-38",
+    "cycle": "jc",
+    "day": "Saturday",
+    "start": "12:00",
+    "end": "13:00",
+    "subject": "Spanish",
+    "level": "Common",
+    "detail": ""
+  },
+  {
+    "id": "jc-39",
+    "cycle": "jc",
+    "day": "Saturday",
+    "start": "13:15",
+    "end": "14:15",
+    "subject": "English",
+    "level": "Higher",
+    "detail": ""
+  },
+  {
+    "id": "jc-40",
+    "cycle": "jc",
+    "day": "Saturday",
+    "start": "13:15",
+    "end": "14:15",
+    "subject": "History",
+    "level": "Common",
+    "detail": ""
+  }
+]
